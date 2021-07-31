@@ -1,1 +1,2 @@
-# Website-Bot-Public-Information
+# 82nd Dread Korps Siege Regiment
+## Website & Bot Information
